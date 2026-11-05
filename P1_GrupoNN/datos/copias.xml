@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sección Copias de seguridad · Shomara Medina -->
+<inventario xmlns="https://hotelestrellatoxample/inventario"
+            xmlns:aut="https://lmsgi.example/autoria"
+            seccion="Copias de seguridad">
+  <aut:firma>
+    <aut:nombre>Shomara Medina</aut:nombre>
+    <aut:fecha>2026-11-05</aut:fecha>
+  </aut:firma>
+  <copia id="1">
+    <contenido>Gestión Hotelera</contenido>
+    <frecuencia>diaria</frecuencia>
+    <destino>servidor</destino>
+  </copia>
+  <copia id="2">
+    <contenido>Datos Financieros</contenido>
+    <frecuencia>diaria</frecuencia>
+    <destino>servidor</destino>
+  </copia>
+  <copia id="3">
+    <contenido>Control de Accesos y Seguridad</contenido>
+    <frecuencia>semanal</frecuencia>
+    <destino>servidor</destino>
+  </copia>
+  <copia id="4">
+    <contenido>Recursos Humanos</contenido>
+    <frecuencia>mensual</frecuencia>
+    <destino>servidor</destino>
+  </copia>
+</inventario>

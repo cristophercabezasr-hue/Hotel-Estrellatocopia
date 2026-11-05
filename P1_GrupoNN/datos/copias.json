@@ -1,0 +1,30 @@
+{
+  "seccion": "Copias de seguridad",
+  "responsable": "Shomara Medina",
+  "copias": [
+    {
+      "id": 1,
+      "contenido": "Gestión Hotelera",
+      "frecuencia": "diaria",
+      "destino": "servidor"
+    },
+    {
+      "id": 2,
+      "contenido": "Datos Financieros",
+      "frecuencia": "diaria",
+      "destino": "servidor"
+    },
+    {
+      "id": 3,
+      "contenido": "Control de Accesos y Seguridad",
+      "frecuencia": "semanal",
+      "destino": "servidor"
+    },
+    {
+      "id": 4,
+      "contenido": "Recursos Humanos",
+      "frecuencia": "mensual",
+      "destino": "servidor"
+    }
+  ]
+}
