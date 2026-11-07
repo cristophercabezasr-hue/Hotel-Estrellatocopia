@@ -1,0 +1,30 @@
+{
+  "seccion": "Seguridad",
+  "responsable": "CRISTOPHER CABEZAS ROCHA",
+  "elementos": [
+    {
+      "id": 1,
+      "nombre": "herramienta de autenticacion de usuarios",
+      "tipo": "autenticacion multifactorial",
+      "estado": "activo"
+    },
+    {
+      "id": 2,
+      "nombre": "Sistema gestor de usuarios ",
+      "tipo": "RBAC",
+      "estado": "activo"
+    },
+    {
+      "id": 3,
+      "nombre": "Software de control",
+      "tipo": "SIEM",
+      "estado": "en pruebas"
+    },
+    {
+      "id": 4,
+      "nombre": "Sistema de cortafuegos para transacciones",
+      "tipo": "WAF",
+      "estado": "activo"
+    }
+  ]
+}
