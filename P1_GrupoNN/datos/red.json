@@ -1,0 +1,30 @@
+{
+    "seccion": "Red",
+    "responsable": "Iker Pulido",
+    "equipos": [
+        {
+            "id": 1,
+            "nombre": "Router principal del hotel",
+            "ubicacion": "Cuarto de comunicaciones",
+            "estado": "operativo"
+        },
+        {
+            "id": 2,
+            "nombre": "Switch de recepcion",
+            "ubicacion": "Mostrador de recepcion",
+            "estado": "operativo"
+        },
+        {
+            "id": 3,
+            "nombre": "Punto de acceso WiFi",
+            "ubicacion": "Planta de habitaciones",
+            "estado": "mantenimiento"
+        },
+        {
+            "id": 4,
+            "nombre": "Firewall de la red interna",
+            "ubicacion": "Cuarto de comunicaciones",
+            "estado": "operativo"
+        }
+    ]
+}

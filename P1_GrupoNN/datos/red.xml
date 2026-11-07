@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sección Red · Iker Pulido -->
+<inventario xmlns="http://www.hotelestrellato.es"
+            xmlns:aut="https://lmsgi.example/autoria"
+            seccion="Red">
+    <aut:firma>
+        <aut:nombre>Iker Pulido</aut:nombre>
+        <aut:fecha>2026-11-07</aut:fecha>
+    </aut:firma>
+    <equipo id="1">
+        <nombre>Router principal del hotel</nombre>
+        <ubicacion>Cuarto de comunicaciones</ubicacion>
+        <estado>operativo</estado>
+    </equipo>
+    <equipo id="2">
+        <nombre>Switch de recepcion</nombre>
+        <ubicacion>Mostrador de recepcion</ubicacion>
+        <estado>operativo</estado>
+    </equipo>
+    <equipo id="3">
+        <nombre>Punto de acceso WiFi</nombre>
+        <ubicacion>Planta de habitaciones</ubicacion>
+        <estado>mantenimiento</estado>
+    </equipo>
+    <equipo id="4">
+        <nombre>Firewall de la red interna</nombre>
+        <ubicacion>Cuarto de comunicaciones</ubicacion>
+        <estado>operativo</estado>
+    </equipo>
+</inventario>
