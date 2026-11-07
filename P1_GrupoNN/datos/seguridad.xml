@@ -5,7 +5,7 @@
             seccion="Seguridad">
   <aut:firma>
     <aut:nombre>CRISTOPHER CABEZAS ROCHA</aut:nombre>
-    <aut:fecha>AAAA-MM-DD</aut:fecha>
+    <aut:fecha>2026-11-07</aut:fecha>
   </aut:firma>
   <elemento id="1">
     <nombre>Herramienta de auntenticacion de usuarios</nombre>
