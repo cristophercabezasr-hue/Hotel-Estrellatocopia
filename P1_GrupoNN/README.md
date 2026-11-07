@@ -9,7 +9,9 @@ apartado; el scrum master lo pega aquí.
 ## 1 · Red
 
 **Administrador de Redes: Iker Pulido** 
+
 En esta sección estará:
+
 - Gestión de la red corporativa
 - Administración de servidores
 - Resolución de incidencias de conectividad
