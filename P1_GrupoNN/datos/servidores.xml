@@ -8,22 +8,22 @@
     <aut:fecha>2026-11-05</aut:fecha>
   </aut:firma>
   <servidor id="1">
-    <nombre>SRV-PMS01</nombre>
+    <nombre>Servidor de habitaciones</nombre>
     <servicio>Buscar habitación</servicio>
     <estado>operativo</estado>
   </servidor>
   <servidor id="2">
-    <nombre>Habitación</nombre>
+    <nombre>Servidor de seguridad</nombre>
     <servicio>Control de cerraduras eletronicas</servicio>
     <estado>operativo</estado>
   </servidor>
   <servidor id="3">
-    <nombre>Maquina</nombre>
+    <nombre>Servidor del comedor</nombre>
     <servicio>Facturación de restaurante y cafeteria</servicio>
     <estado>mantenimiento</estado>
   </servidor>
   <servidor id="4">
-    <nombre>Wifi</nombre>
+    <nombre>Servidor del Wifi</nombre>
     <servicio>Portal cautivo y red de huespedes</servicio>
     <estado>operativo</estado>
   </servidor>
