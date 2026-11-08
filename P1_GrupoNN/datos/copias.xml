@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Sección Copias de seguridad · Shomara Medina -->
-<inventario xmlns="https://hotelestrellatoxample/inventario"
+<inventario xmlns="https://hotelestrellato.com/inventario"
             xmlns:aut="https://lmsgi.example/autoria"
             seccion="Copias de seguridad">
   <aut:firma>
