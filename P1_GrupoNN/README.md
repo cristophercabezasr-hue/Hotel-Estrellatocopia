@@ -82,8 +82,8 @@ Mas información : [Soporte a usuarios: atención al cliente](https://www.hotele
 
 | Sprint | Sección            | Persona  | Qué ha hecho |
 |--------|--------------------|----------|--------------|
-| 2      |Red                 | Todos    | |
-| 2      |Servidores          | Iker |Su parte. |
+| 2      |Red                 | Iker    |Su parte |
+| 2      |Servidores          | Todos    |       |
 | 2      |Seguridad           |Cristopher|Su parte. |
 | 2      |Copias de seguridad |Shomara   |Su parte. |
 | 2      |Soporte a usuarios  |Kelvin    |Su parte. |
