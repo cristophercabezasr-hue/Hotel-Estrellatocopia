@@ -64,7 +64,9 @@ Más información: [Base de datos: Protección y Respaldo de datos](https://www.
 ## 5 · Soporte a usuarios
 
 **Responsable:** Kelvin Marquez
+
 En esta seccion estara:  
+
   - Gestion de reservas check-in/check-out
   - Resolución de incidencias y reclamaciones
   - Asistencias y informaciones
@@ -81,7 +83,7 @@ Mas información : [Soporte a usuarios: atención al cliente](https://www.hotele
 | Sprint | Sección            | Persona  | Qué ha hecho |
 |--------|--------------------|----------|--------------|
 | 2      |Red                 | Todos    | |
-| 2      |Servidores          | Bryandel |Su parte. |
+| 2      |Servidores          | Iker |Su parte. |
 | 2      |Seguridad           |Cristopher|Su parte. |
 | 2      |Copias de seguridad |Shomara   |Su parte. |
 | 2      |Soporte a usuarios  |Kelvin    |Su parte. |
