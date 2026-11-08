@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Sección Seguridad ·  CRISTOPHER CABEZAS ROCHA -->
-<inventario xmlns="https://hotelestrellato.com/inventario"
+<!-- Sección Seguridad · TU NOMBRE Y APELLIDO -->
+<inventario xmlns="https://NOMBRE-DE-VUESTRA-EMPRESA.example/inventario"
             xmlns:aut="https://lmsgi.example/autoria"
             seccion="Seguridad">
   <aut:firma>
-    <aut:nombre>CRISTOPHER CABEZAS ROCHA</aut:nombre>
-    <aut:fecha>2026-11-07</aut:fecha>
+    <aut:nombre>TU NOMBRE Y APELLIDO</aut:nombre>
+    <aut:fecha>AAAA-MM-DD</aut:fecha>
   </aut:firma>
   <elemento id="1">
-    <nombre>Herramienta de auntenticacion de usuarios</nombre>
-    <tipo>autenticacion multifactorial</tipo>
-    <estado>activo</estado>
+    <nombre>CAMBIA</nombre>
+    <tipo>CAMBIA</tipo>
+    <estado>CAMBIA</estado>
   </elemento>
   <elemento id="2">
-    <nombre>Sistema gestor de usuarios</nombre>
-    <tipo>RBAC</tipo>
-    <estado>activo</estado>
+    <nombre>CAMBIA</nombre>
+    <tipo>CAMBIA</tipo>
+    <estado>CAMBIA</estado>
   </elemento>
   <elemento id="3">
-   <nombre>Software de control</nombre>  
-    <tipo>SIEM</tipo>
-    <estado>en pruebas</estado>
+    <nombre>CAMBIA</nombre>
+    <tipo>CAMBIA</tipo>
+    <estado>CAMBIA</estado>
   </elemento>
   <elemento id="4">
-    <nombre>Sistema de cortafuegos para transacciones</nombre>
-    <tipo>WAF</tipo>
-    <estado>activo</estado>
+    <nombre>CAMBIA</nombre>
+    <tipo>CAMBIA</tipo>
+    <estado>CAMBIA</estado>
   </elemento>
 </inventario>

@@ -1,0 +1,30 @@
+{
+  "seccion": "Servidores",
+  "responsable": "Kelvin Marquez",
+  "servidores": [
+    {
+      "id": 1,
+      "nombre": "SRV-PMS01",
+      "servicio": "buscar habitación",
+      "estado": "operativo"
+    },
+    {
+      "id": 2,
+      "nombre": "habitación",
+      "servicio": "control de cerraduras eletronicas",
+      "estado": "operativo"
+    },
+    {
+      "id": 3,
+      "nombre": "Maquina",
+      "servicio": "facturación de restaurante y cafeteria",
+      "estado": "mantenimiento"
+    },
+    {
+      "id": 4,
+      "nombre": "Wifi",
+      "servicio": "portal cautivo y red de huespedes",
+      "estado": "operativo"
+    }
+  ]
+}
