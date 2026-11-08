@@ -91,6 +91,6 @@ Mas información : [Soporte a usuarios: atención al cliente](https://www.hotele
 | Inventario | Servidores |Kelvin  | su parte |
 | Inventario | Seguridad |Cristopher |Su parte |
 | Inventario | Copias de seguridad | Shomara |Su parte. |
-| Inventario | Soporte a usuarios | | |
+| Inventario | Soporte a usuarios |Sin responsable | |
 
 
