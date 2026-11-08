@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Sección Red · Iker Pulido -->
-<inventario xmlns="http://www.hotelestrellato.es"
+<inventario xmlns="https://hotelestrellato.com/inventario"
             xmlns:aut="https://lmsgi.example/autoria"
             seccion="Red">
     <aut:firma>
