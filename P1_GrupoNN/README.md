@@ -87,3 +87,10 @@ Mas información : [Soporte a usuarios: atención al cliente](https://www.hotele
 | 2      |Seguridad           |Cristopher|Su parte. |
 | 2      |Copias de seguridad |Shomara   |Su parte. |
 | 2      |Soporte a usuarios  |Kelvin    |Su parte. |
+| Inventario | Red |Iker |Su parte |
+| Inventario | Servidores |Kelvin  | su parte |
+| Inventario | Seguridad |Cristopher |Su parte |
+| Inventario | Copias de seguridad | Shomara |Su parte. |
+| Inventario | Soporte a usuarios | | |
+
+
