@@ -4,25 +4,25 @@
   "servidores": [
     {
       "id": 1,
-      "nombre": "SRV-PMS01",
+      "nombre": "Servidor de habitaciones",
       "servicio": "buscar habitación",
       "estado": "operativo"
     },
     {
       "id": 2,
-      "nombre": "habitación",
+      "nombre": "Servidor de seguridad",
       "servicio": "control de cerraduras eletronicas",
       "estado": "operativo"
     },
     {
       "id": 3,
-      "nombre": "Maquina",
+      "nombre": "Servidor del comedor",
       "servicio": "facturación de restaurante y cafeteria",
       "estado": "mantenimiento"
     },
     {
       "id": 4,
-      "nombre": "Wifi",
+      "nombre": "Servidor del Wifi",
       "servicio": "portal cautivo y red de huespedes",
       "estado": "operativo"
     }
