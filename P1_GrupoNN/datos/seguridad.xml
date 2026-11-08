@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Sección Seguridad · TU NOMBRE Y APELLIDO -->
-<inventario xmlns="https://NOMBRE-DE-VUESTRA-EMPRESA.example/inventario"
+<!-- Sección Servidores · Kelvin Marquez -->
+<inventario xmlns="https://hotelestrellato.com/inventario"
             xmlns:aut="https://lmsgi.example/autoria"
-            seccion="Seguridad">
+            seccion="Servidores">
   <aut:firma>
-    <aut:nombre>TU NOMBRE Y APELLIDO</aut:nombre>
-    <aut:fecha>AAAA-MM-DD</aut:fecha>
+    <aut:nombre>Kelvin Marquez</aut:nombre>
+    <aut:fecha>2026-11-05</aut:fecha>
   </aut:firma>
-  <elemento id="1">
-    <nombre>CAMBIA</nombre>
-    <tipo>CAMBIA</tipo>
-    <estado>CAMBIA</estado>
-  </elemento>
-  <elemento id="2">
-    <nombre>CAMBIA</nombre>
-    <tipo>CAMBIA</tipo>
-    <estado>CAMBIA</estado>
-  </elemento>
-  <elemento id="3">
-    <nombre>CAMBIA</nombre>
-    <tipo>CAMBIA</tipo>
-    <estado>CAMBIA</estado>
-  </elemento>
-  <elemento id="4">
-    <nombre>CAMBIA</nombre>
-    <tipo>CAMBIA</tipo>
-    <estado>CAMBIA</estado>
-  </elemento>
+  <servidor id="1">
+    <nombre>SRV-PMS01</nombre>
+    <servicio>Buscar habitación</servicio>
+    <estado>operativo</estado>
+  </servidor>
+  <servidor id="2">
+    <nombre>Habitación</nombre>
+    <servicio>Control de cerraduras eletronicas</servicio>
+    <estado>operativo</estado>
+  </servidor>
+  <servidor id="3">
+    <nombre>Maquina</nombre>
+    <servicio>Facturación de restaurante y cafeteria</servicio>
+    <estado>mantenimiento</estado>
+  </servidor>
+  <servidor id="4">
+    <nombre>Wifi</nombre>
+    <servicio>Portal cautivo y red de huespedes</servicio>
+    <estado>operativo</estado>
+  </servidor>
 </inventario>
